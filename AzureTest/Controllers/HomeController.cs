@@ -14,7 +14,7 @@ namespace AzureTest.Controllers
         {
             return View();
         }
-
+        //test
         public IActionResult Privacy()
         {
             return View();
